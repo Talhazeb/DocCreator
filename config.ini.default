@@ -1,8 +1,8 @@
 [Paths]
-templates_dir = ../templates/
-signers_dir = ../signers/
-public_key = ../keys/public_key.pem
-private_key = ../keys/private_key.pem
+templates_dir = templates/
+signers_dir = signers/
+public_key = keys/public_key.pem
+private_key = keys/private_key.pem
 
 [Nextcloud]
 enabled = false

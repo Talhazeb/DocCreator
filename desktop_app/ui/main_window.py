@@ -19,10 +19,10 @@ class MainWindow(QMainWindow):
 
         layout = QVBoxLayout()
 
-        self.btn_document = QPushButton('Dokument')
-        self.btn_author = QPushButton('Autor')
-        self.btn_edit_previous = QPushButton('Vorheriges Dokument weiter bearbeiten')
-        self.btn_delete_previous = QPushButton('Daten vorheriges Dokument löschen')
+        self.btn_document = QPushButton('Document')
+        self.btn_author = QPushButton('Authors')
+        self.btn_edit_previous = QPushButton('Continue editing previous document')
+        self.btn_delete_previous = QPushButton('Delete data from previous document')
 
         #  Button zum Beenden des Programms
         self.exit_btn = QPushButton("Beenden")
