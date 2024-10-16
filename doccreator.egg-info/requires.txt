@@ -1,0 +1,7 @@
+PyQt5
+python-docx
+docx2pdf
+PyPDF2
+reportlab
+cryptography
+Pillow

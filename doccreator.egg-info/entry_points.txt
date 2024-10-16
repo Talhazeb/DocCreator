@@ -1,0 +1,2 @@
+[console_scripts]
+doccreator = desktop_app.main:main
