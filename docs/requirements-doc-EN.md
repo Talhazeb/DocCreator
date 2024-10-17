@@ -168,3 +168,5 @@ The DocCreator App is a system consisting of a desktop application, a verificati
 
 ### 11. Future
 - add multilanguage capabilities
+- add menu to select author, upload a prepared Word docx file containing the placeholders {{SignerSignature}} {{SignerName}} {{CurrentDate}}, enter password and add signature and fill placeholders, convert to PDF and sign the PDF and optional upload PDF.  Error message if document does not contain named placeholders, Error message if password is incorrect.
+- create signature webservice. if qt client uses webservice, no upload is required because webservice automatically archives the signed file. if qt client has no internet connection, local signature is used and optional upload is put into a queue for upload when internet conenction is available.
