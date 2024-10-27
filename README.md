@@ -48,6 +48,10 @@ DocCreator App is a comprehensive system for creating, managing, and verifying d
    python keygen/keygen.py
    ```
 
+6. Create a directory for storing author signatures in root directory.
+
+7. Create a directory for storing output PDF files in root directory.
+
 ## Usage
 
 ### Desktop Application
